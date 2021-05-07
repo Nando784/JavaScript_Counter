@@ -11,7 +11,7 @@
 - Just make sure you updated your Browser to the latest version 
 so that you don't encounter any problems with the compatibility of the CSS and HTML Tags.
 
-##Structure
+## Structure
 - The HTML page (Index) contains only the Dropdowns and Layout Divs,<br>
  everything else (+ / - / Reset / Counter) is implemented through JavaScript Code.
 
@@ -20,7 +20,7 @@ so that you don't encounter any problems with the compatibility of the CSS and H
     - Elements Creation
     - Listeners
 
-##Files & Directory
+## Files & Directory
 
 1. **Root**
     - *Index.html*
