@@ -1,7 +1,3 @@
-<div style="width:100%; display: flex; justify-content: end;">
-<img src="readme_img/icon.png" style="height: 16px;" alt="icon"/>
-</div>
-
 # JavaScript Online Counter
 > A simple counter implemented with JavaScript. 
 >It is possible to Increase, Decrease or Reset 
