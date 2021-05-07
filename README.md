@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: end;">
-<img src="readme_img/icon.png" style="height: 64px;" alt="icon"/>
+<div style="width:100%; display: flex; justify-content: end;">
+<img src="readme_img/icon.png" style="height: 16px;" alt="icon"/>
 </div>
 
 # JavaScript Online Counter
